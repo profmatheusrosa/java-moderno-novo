@@ -25,17 +25,52 @@ curso-java-moderno/
 ## Conteúdo Programático
 
 | Módulo | Tópicos Principais | Subtópicos | Detalhes |
-|---|---|---|---|
-| Módulo 00: Preparação e Mentalidade | Preparação e Mentalidade | Aulas, exercícios e projeto incremental | Ecossistema Java, configuração do ambiente e técnicas de estudo. |
-| Módulo 01: Fundamentos da Linguagem Java | Fundamentos da Linguagem Java | Aulas, exercícios e projeto incremental | Variáveis, tipos, operadores, controle de fluxo, laços e métodos. |
-| Módulo 02: Introdução à Orientação a Objetos | Introdução à Orientação a Objetos | Aulas, exercícios e projeto incremental | Classes, objetos, encapsulamento, herança, polimorfismo e abstrações. |
-| Módulo 03: Java Moderno: Novas Features | Java Moderno: Novas Features | Aulas, exercícios e projeto incremental | Records, sealed classes, pattern matching e text blocks. |
-| Módulo 04: Coleções e Stream API | Coleções e Stream API | Aulas, exercícios e projeto incremental | List, Set, Map, Streams avançadas e Optional. |
-| Módulo 05: Tratamento de Erros e Tópicos Avançados | Tratamento de Erros e Tópicos Avançados | Aulas, exercícios e projeto incremental | Exceções, Generics, Lambdas, concorrência e Virtual Threads. |
-| Módulo 06: Persistência de Dados com JPA/Hibernate | Persistência de Dados com JPA/Hibernate | Aulas, exercícios e projeto incremental | JDBC, JPA, relacionamentos, JPQL e Spring Data JPA. |
-| Módulo 07: Ecossistema Spring Boot 3 | Ecossistema Spring Boot 3 | Aulas, exercícios e projeto incremental | Spring Boot, IoC/DI, APIs REST, validação e tratamento de erros. |
-| Módulo 08: Arquitetura Moderna e Cloud Native | Arquitetura Moderna e Cloud Native | Aulas, exercícios e projeto incremental | Microsserviços, Docker, Kubernetes, CI/CD e observabilidade. |
-| Módulo 09: Projeto Final Capstone | Projeto Final Capstone | Aulas, exercícios e projeto incremental | Integração dos conhecimentos em um projeto completo e apresentável. |
+|--------|-------------------|------------|----------|
+| **Módulo 0** | Preparação e Mentalidade | 0.1 Ecossistema Java | Panorama do Java, versões LTS e aplicações no mercado |
+|  |  | 0.2 Configuração do ambiente | JDK 21+, IDE, Maven, Git e verificação da instalação |
+|  |  | 0.3 Técnicas de estudo | Aprendizagem ativa, prática deliberada e organização da rotina |
+| **Módulo 1** | Fundamentos da Linguagem Java | 1.1 Variáveis e tipos de dados | Declaração, tipos primitivos, referências, conversões e inferência |
+|  |  | 1.2 Operadores | Operadores aritméticos, relacionais, lógicos, atribuição e ternário |
+|  |  | 1.3 Estruturas de controle | Decisões com if, else, switch e expressões condicionais |
+|  |  | 1.4 Laços de repetição | for, while, do-while, break, continue e iteração |
+|  |  | 1.5 Métodos e funções | Parâmetros, retorno, escopo, sobrecarga e organização do código |
+| **Módulo 2** | Introdução à Orientação a Objetos | 2.1 Classes e objetos | Estado, comportamento, construtores e instanciação |
+|  |  | 2.2 Encapsulamento | Modificadores de acesso, invariantes e proteção de estado |
+|  |  | 2.3 Herança | Reutilização, especialização e relação entre superclasse e subclasse |
+|  |  | 2.4 Polimorfismo | Substituição, sobrescrita e múltiplas formas de uma interface |
+|  |  | 2.5 Interfaces e classes abstratas | Contratos, abstrações e composição de comportamentos |
+| **Módulo 3** | Java Moderno: Novas Features | 3.1 Records | Classes de dados compactas, imutabilidade e métodos gerados |
+|  |  | 3.2 Sealed classes | Controle da hierarquia de tipos com sealed, permits e final |
+|  |  | 3.3 Pattern matching | Pattern matching para instanceof e switch |
+|  |  | 3.4 Text blocks | Strings multilinhas legíveis e formatação de textos |
+| **Módulo 4** | Coleções e Stream API | 4.1 List e Set | Listas, conjuntos, ordenação, igualdade e duplicidade |
+|  |  | 4.2 Map | Estruturas chave-valor, busca, atualização e iteração |
+|  |  | 4.3 Stream API | Pipeline, filter, map, reduce e coleta de resultados |
+|  |  | 4.4 Streams avançadas | Agrupamento, particionamento, collectors e desempenho |
+|  |  | 4.5 Optional | Modelagem da ausência de valor e redução de null |
+| **Módulo 5** | Tratamento de Erros e Tópicos Avançados | 5.1 Exceções | try-catch, finally, exceções verificadas e exceções de domínio |
+|  |  | 5.2 Generics | Tipos parametrizados, segurança de tipos e wildcards |
+|  |  | 5.3 Expressões lambda | Interfaces funcionais, composição e programação funcional |
+|  |  | 5.4 Concorrência e Virtual Threads | Tarefas concorrentes, executors e escalabilidade |
+| **Módulo 6** | Persistência de Dados com JPA/Hibernate | 6.1 Introdução à persistência e JDBC | Conexões, comandos SQL, recursos e transações |
+|  |  | 6.2 Fundamentos de JPA | Entidades, EntityManager, mapeamento e ciclo de vida |
+|  |  | 6.3 Relacionamentos entre entidades | OneToOne, OneToMany, ManyToOne e ManyToMany |
+|  |  | 6.4 JPQL e consultas nativas | Consultas orientadas a entidades, parâmetros e SQL nativo |
+|  |  | 6.5 Spring Data JPA | Repositories, derived queries, paginação e integração com Spring |
+| **Módulo 7** | Ecossistema Spring Boot 3 | 7.1 Introdução ao Spring Boot | Starters, auto-configuração, aplicação e configuração |
+|  |  | 7.2 Injeção de dependência e IoC | Container, beans, componentes e injeção por construtor |
+|  |  | 7.3 APIs RESTful com Spring MVC | Controllers, rotas, DTOs, HTTP e serialização |
+|  |  | 7.4 Validação e tratamento de erros | Bean Validation, respostas de erro e ControllerAdvice |
+| **Módulo 8** | Arquitetura Moderna e Cloud Native | 8.1 Introdução a microsserviços | Limites de serviço, comunicação e consistência distribuída |
+|  |  | 8.2 Docker | Imagens, contêineres, volumes e redes |
+|  |  | 8.3 Kubernetes | Pods, deployments, services e configurações |
+|  |  | 8.4 CI/CD com GitHub Actions | Integração contínua, pipelines e entrega automatizada |
+|  |  | 8.5 Observabilidade | Logs, métricas, traces e indicadores |
+| **Módulo 9** | Projeto Final Capstone | 9.1 Revisão e integração | Integração dos fundamentos do curso |
+|  |  | 9.2 Design do projeto final | Requisitos, arquitetura e critérios de aceite |
+|  |  | 9.3 Implementação do backend | API, persistência, segurança e testes |
+|  |  | 9.4 Implementação do frontend | Contratos HTTP, integração e experiência do usuário |
+|  |  | 9.5 Deploy e apresentação | Entrega, validação, documentação e apresentação técnica |
 
 ## Links Rápidos
 
