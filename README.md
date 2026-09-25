@@ -85,7 +85,7 @@ curso-java-moderno/
 | Módulo 06<br>Persistência de Dados com JPA/Hibernate | [Teoria](teoria/modulo_06_persistencia_de_dados_com_jpa_hibernate.md) | [Exercícios](exercicios/modulo_06_exercicios_persistencia_de_dados_com_jpa_hibernate.md) | [Projeto](projetos/modulo_06_projeto_persistencia_de_dados_com_jpa_hibernate.md) |
 | Módulo 07<br>Ecossistema Spring Boot 3 | [Teoria](teoria/modulo_07_ecossistema_spring_boot_3.md) | [Exercícios](exercicios/modulo_07_exercicios_ecossistema_spring_boot_3.md) | [Projeto](projetos/modulo_07_projeto_ecossistema_spring_boot_3.md) |
 | Módulo 08<br>Arquitetura Moderna e Cloud Native | [Teoria](teoria/modulo_08_arquitetura_moderna_e_cloud_native.md) | [Exercícios](exercicios/modulo_08_exercicios_arquitetura_moderna_e_cloud_native.md) | [Projeto](projetos/modulo_08_projeto_arquitetura_moderna_e_cloud_native.md) |
-| Módulo 09<br>Projeto Final Capstone | [Teoria](teoria/modulo_09_projeto_final_capstone.md) | [Exercícios](exercicios/modulo_09_exercicios_projeto_final_capstone.md) | [Projeto](projetos/modulo_09_projeto_projeto_final_capstone.md) |
+| Módulo 09<br>Projeto Final Capstone | [Teoria](teoria/modulo_09_projeto_final_capstone.md) | [Exercícios](exercicios/modulo_09_exercicios_projeto_final_capstone.md) | [Projeto](projetos/modulo_09_projeto_final_capstone.md) |
 
 ## Planejamento das Aulas
 
