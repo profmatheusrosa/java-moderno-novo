@@ -2,6 +2,14 @@
 > Prepare o terreno antes de construir a casa: configure seu ambiente e ajuste sua mentalidade para dominar o Java moderno.
 
 
+## Sumário
+
+- [Aula 0.1: O Ecossistema Java em 2025](#aula-01-o-ecossistema-java-em-2025)
+- [Aula 0.2: Configurando o Ambiente de Desenvolvimento](#aula-02-configurando-o-ambiente-de-desenvolvimento)
+- [Aula 0.3: Técnicas de Aprendizado Acelerado e Resolução de Erros](#aula-03-tecnicas-de-aprendizado-acelerado-e-resolucao-de-erros)
+- [Exercícios de Fixação](#exercicios-de-fixacao)
+- [Referências](#referencias)
+
 ## O que você vai aprender neste módulo
 
 - A evolução do ecossistema Java e por que ele continua relevante no mercado.
@@ -12,13 +20,6 @@
 - Técnicas de estudo modernas: Pomodoro e Active Recall.
 - Como identificar e resolver erros lendo o Stacktrace.
 
-## Sumário
-
-- [Aula 0.1: O Ecossistema Java em 2025](#aula-01-o-ecossistema-java-em-2025)
-- [Aula 0.2: Configurando o Ambiente de Desenvolvimento](#aula-02-configurando-o-ambiente-de-desenvolvimento)
-- [Aula 0.3: Técnicas de Aprendizado Acelerado e Resolução de Erros](#aula-03-tecnicas-de-aprendizado-acelerado-e-resolucao-de-erros)
-- [Exercícios de Fixação](#exercicios-de-fixacao)
-- [Referências](#referencias)
 
 ---
 
@@ -161,4 +162,5 @@ d) Reinstalar o JDK imediatamente, pois os Stacktraces geralmente indicam que o 
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 01 — Fundamentos da Linguagem Java](./modulo_01_fundamentos_da_linguagem_java.md)
+
 

@@ -2,14 +2,6 @@
 # Módulo 08: Arquitetura Moderna e Cloud Native
 > Bem-vindo à nuvem! Onde suas aplicações escalam, se recuperam sozinhas e voam alto.
 
-## O que você vai aprender neste módulo
-
-- Microsserviços e Monólitos: quando usar cada um
-- Docker: conteinerizando sua aplicação Java
-- Kubernetes Essencial: orquestração para o mundo real
-- CI/CD com GitHub Actions: automação de deploy
-- Monitoramento e Observabilidade: não voe às cegas
-
 ## Sumário
 
 - [Aula 8.1: Microsserviços](#aula-81-microsserviços)
@@ -19,6 +11,15 @@
 - [Aula 8.5: Monitoramento e Observabilidade](#aula-85-monitoramento-e-observabilidade)
 - [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
 - [Referências](#referências)
+
+## O que você vai aprender neste módulo
+
+- Microsserviços e Monólitos: quando usar cada um
+- Docker: conteinerizando sua aplicação Java
+- Kubernetes Essencial: orquestração para o mundo real
+- CI/CD com GitHub Actions: automação de deploy
+- Monitoramento e Observabilidade: não voe às cegas
+
 
 ---
 
@@ -505,4 +506,5 @@ d) Não há diferença, são sinônimos.
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 09 — Projeto Final Capstone](./modulo_09_projeto_final_capstone.md)
+
 

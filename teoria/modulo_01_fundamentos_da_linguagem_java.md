@@ -1,15 +1,6 @@
 # Módulo 01: Fundamentos da Linguagem Java
 > Os alicerces onde tudo começa: domine variáveis, operadores, controle de fluxo, laços e métodos no Java Moderno 21+.
 
-## O que você vai aprender neste módulo
-
-- A base estrutural do código moderno: Variáveis dinâmicas e Tipos de Dados Primitivos.
-- O uso e a utilidade prática das poderosas Wrapper Classes.
-- Como operar e extrair respostas usando a lógica e matemática (operadores unários e ternários).
-- Tomada de decisões com estruturas de controle de fluxo (if, else e switch expressions).
-- Como automatizar tarefas repetitivas usando laços (for, while, do-while).
-- Como organizar blocos lógicos isolados usando métodos e parâmetros.
-
 ## Sumário
 
 - [Aula 1.1: Variáveis e Tipos de Dados](#aula-11-variaveis-e-tipos-de-dados)
@@ -19,6 +10,16 @@
 - [Aula 1.5: Métodos e Funções](#aula-15-metodos-e-funcoes)
 - [Exercícios de Fixação](#exercicios-de-fixacao)
 - [Referências](#referencias)
+
+## O que você vai aprender neste módulo
+
+- A base estrutural do código moderno: Variáveis dinâmicas e Tipos de Dados Primitivos.
+- O uso e a utilidade prática das poderosas Wrapper Classes.
+- Como operar e extrair respostas usando a lógica e matemática (operadores unários e ternários).
+- Tomada de decisões com estruturas de controle de fluxo (if, else e switch expressions).
+- Como automatizar tarefas repetitivas usando laços (for, while, do-while).
+- Como organizar blocos lógicos isolados usando métodos e parâmetros.
+
 
 ---
 
@@ -277,4 +278,5 @@ d) Ele é usado como um atalho do operador ternário lógico.
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 02 — Introdução à Orientação a Objetos](./modulo_02_orientacao_a_objetos.md)
+
 

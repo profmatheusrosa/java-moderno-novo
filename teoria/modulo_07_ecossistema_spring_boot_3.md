@@ -1,6 +1,15 @@
 # Módulo 07: Ecossistema Spring Boot 3
 > O Spring Boot revolucionou a forma como criamos aplicações Java. Aprenda a sair do zero absoluto até uma API RESTful robusta, com injeção de dependências e tratamento global de erros em minutos!
 
+## Sumário
+
+- [Aula 7.1: A Revolução do Spring Boot](#aula-71-a-revolução-do-spring-boot)
+- [Aula 7.2: Injeção de Dependência e IoC](#aula-72-injeção-de-dependência-e-ioc)
+- [Aula 7.3: Construindo APIs RESTful com Spring MVC](#aula-73-construindo-apis-restful-com-spring-mvc)
+- [Aula 7.4: Validação de Dados e Tratamento de Erros](#aula-74-validação-de-dados-e-tratamento-de-erros)
+- [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
+- [Referências](#referências)
+
 ## O que você vai aprender neste módulo
 
 Neste módulo, uniremos os blocos fundamentais do back-end moderno. Você aprenderá a:
@@ -12,14 +21,6 @@ Neste módulo, uniremos os blocos fundamentais do back-end moderno. Você aprend
 
 Ao final do módulo, você entenderá como conectar Controladores, Serviços, injeções e validações em um fluxo limpo e coeso.
 
-## Sumário
-
-- [Aula 7.1: A Revolução do Spring Boot](#aula-71-a-revolução-do-spring-boot)
-- [Aula 7.2: Injeção de Dependência e IoC](#aula-72-injeção-de-dependência-e-ioc)
-- [Aula 7.3: Construindo APIs RESTful com Spring MVC](#aula-73-construindo-apis-restful-com-spring-mvc)
-- [Aula 7.4: Validação de Dados e Tratamento de Erros](#aula-74-validação-de-dados-e-tratamento-de-erros)
-- [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
-- [Referências](#referências)
 
 ---
 
@@ -495,4 +496,5 @@ d) `@GlobalError`
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 08 — Arquitetura Moderna e Cloud Native](./modulo_08_arquitetura_moderna_e_cloud_native.md)
+
 

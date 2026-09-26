@@ -2,14 +2,6 @@
 # Módulo 09: Projeto Final Capstone
 > A hora da verdade: onde todo o conhecimento se une para criar um sistema real do zero ao deploy.
 
-## O que você vai aprender neste módulo
-
-- Consolidar todos os conceitos de Java 21, Spring Boot 3 e JPA
-- Desenhar a arquitetura de um Sistema de Gestão de Biblioteca
-- Implementar as regras de negócio de ponta a ponta
-- Escrever testes automatizados que garantem a qualidade
-- Fazer o deploy do projeto e construir um portfólio de respeito
-
 ## Sumário
 
 - [Aula 9.1: Revisão e Integração](#aula-91-revisão-e-integração)
@@ -19,6 +11,15 @@
 - [Aula 9.5: Deploy e Apresentação](#aula-95-deploy-e-apresentação)
 - [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
 - [Referências](#referências)
+
+## O que você vai aprender neste módulo
+
+- Consolidar todos os conceitos de Java 21, Spring Boot 3 e JPA
+- Desenhar a arquitetura de um Sistema de Gestão de Biblioteca
+- Implementar as regras de negócio de ponta a ponta
+- Escrever testes automatizados que garantem a qualidade
+- Fazer o deploy do projeto e construir um portfólio de respeito
+
 
 ---
 
@@ -508,4 +509,5 @@ d) É a interface gráfica padrão do Spring Boot para visualizar relatórios de
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos)
+
 

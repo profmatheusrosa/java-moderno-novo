@@ -1,6 +1,14 @@
 # Módulo 04: Coleções e Stream API
 > Domine a manipulação de dados em Java: do básico de Listas ao poder funcional das Streams.
 
+## Sumário
+
+- [Aula 4.1: O Universo das Collections - Listas e Conjuntos](#aula-41-o-universo-das-collections---listas-e-conjuntos)
+- [Aula 4.2: Mapas e Dicionários - Chave e Valor](#aula-42-mapas-e-dicionários---chave-e-valor)
+- [Aula 4.3: Streams API - O Poder da Programação Funcional](#aula-43-streams-api---o-poder-da-programação-funcional)
+- [Aula 4.4: Opcionais: Diga adeus ao NullPointerException](#aula-44-opcionais-diga-adeus-ao-nullpointerexception)
+- [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
+
 ## O que você vai aprender neste módulo
 
 - A Collections Framework: List, Set e Map
@@ -10,13 +18,6 @@
 - Como substituir loops imperativos por código funcional
 - A classe Optional para evitar NullPointerException
 
-## Sumário
-
-- [Aula 4.1: O Universo das Collections - Listas e Conjuntos](#aula-41-o-universo-das-collections---listas-e-conjuntos)
-- [Aula 4.2: Mapas e Dicionários - Chave e Valor](#aula-42-mapas-e-dicionários---chave-e-valor)
-- [Aula 4.3: Streams API - O Poder da Programação Funcional](#aula-43-streams-api---o-poder-da-programação-funcional)
-- [Aula 4.4: Opcionais: Diga adeus ao NullPointerException](#aula-44-opcionais-diga-adeus-ao-nullpointerexception)
-- [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
 
 ---
 
@@ -378,4 +379,5 @@ d) stream()
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 05 — Tratamento de Erros e Tópicos Avançados](./modulo_05_tratamento_de_erros_e_topicos_avancados.md)
+
 

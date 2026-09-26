@@ -1,6 +1,15 @@
 # Módulo 02: Orientação a Objetos
 > A base de tudo no Java: entenda como modelar o mundo real com código e organizar suas ideias.
 
+## Sumário
+
+- [Aula 2.1: Classes e Objetos](#aula-21-classes-e-objetos-o-dna-do-seu-programa)
+- [Aula 2.2: Encapsulamento](#aula-22-encapsulamento-protegendo-seus-dados)
+- [Aula 2.3: Herança](#aula-23-heranca-reutilizando-codigo-com-inteligencia)
+- [Aula 2.4: Polimorfismo](#aula-24-polimorfismo-multiplas-formas-uma-interface)
+- [Aula 2.5: Interfaces e Classes Abstratas](#aula-25-interfaces-e-classes-abstratas-contratos-e-modelos)
+- [Exercícios de Fixação](#exercicios-de-fixacao)
+
 ## O que você vai aprender neste módulo
 
 Neste módulo, vamos mergulhar fundo no paradigma que dá vida ao Java: a Orientação a Objetos (OO). Você aprenderá a pensar em forma de objetos, descobrindo como:
@@ -10,14 +19,6 @@ Neste módulo, vamos mergulhar fundo no paradigma que dá vida ao Java: a Orient
 - Programar de maneira flexível e extensível através do Polimorfismo.
 - Criar contratos e modelos reutilizáveis usando Interfaces e Classes Abstratas.
 
-## Sumário
-
-- [Aula 2.1: Classes e Objetos](#aula-21-classes-e-objetos-o-dna-do-seu-programa)
-- [Aula 2.2: Encapsulamento](#aula-22-encapsulamento-protegendo-seus-dados)
-- [Aula 2.3: Herança](#aula-23-heranca-reutilizando-codigo-com-inteligencia)
-- [Aula 2.4: Polimorfismo](#aula-24-polimorfismo-multiplas-formas-uma-interface)
-- [Aula 2.5: Interfaces e Classes Abstratas](#aula-25-interfaces-e-classes-abstratas-contratos-e-modelos)
-- [Exercícios de Fixação](#exercicios-de-fixacao)
 
 ---
 
@@ -551,4 +552,5 @@ class Pix implements Pagavel {
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 03 — Recursos Modernos do Java](./modulo_03_recursos_modernos_do_java.md)
+
 

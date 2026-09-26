@@ -1,14 +1,6 @@
 # Módulo 05: Tratamento de Erros e Tópicos Avançados
 > Domine a base avançada do Java: como lidar com o inesperado e criar códigos genéricos, seguros e velozes.
 
-## O que você vai aprender neste módulo
-
-- Como lidar com erros usando Exceções (`try-catch-finally`, Exceções Check e Unchecked, Exceções Customizadas)
-- Escrever código flexível e seguro usando Generics e Wildcards (PECS)
-- As raízes da programação funcional no Java: Expressões Lambda, Composição de Funções e Method References
-- Como as Virtual Threads (Project Loom) estão mudando o desempenho e concorrência no Java
-- Como Exceções, Generics e Lambdas se conectam para formar o Java moderno
-
 ## Sumário
 
 - [Aula 5.1: Exceções: Lidando com o Inesperado](#aula-51-exceções-lidando-com-o-inesperado)
@@ -17,6 +9,15 @@
 - [Aula 5.4: Concorrência e Virtual Threads: Desempenho no Java 21+](#aula-54-concorrência-e-virtual-threads-desempenho-no-java-21)
 - [A Conexão: Lambdas + Generics + Exceções](#a-conexão-lambdas--generics--exceções)
 - [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
+
+## O que você vai aprender neste módulo
+
+- Como lidar com erros usando Exceções (`try-catch-finally`, Exceções Check e Unchecked, Exceções Customizadas)
+- Escrever código flexível e seguro usando Generics e Wildcards (PECS)
+- As raízes da programação funcional no Java: Expressões Lambda, Composição de Funções e Method References
+- Como as Virtual Threads (Project Loom) estão mudando o desempenho e concorrência no Java
+- Como Exceções, Generics e Lambdas se conectam para formar o Java moderno
+
 
 ---
 
@@ -442,4 +443,5 @@ d) Transforma código síncrono em callbacks invisíveis.
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 06 — Persistência de Dados com JPA/Hibernate](./modulo_06_persistencia_de_dados_com_jpa_hibernate.md)
+
 

@@ -1,6 +1,16 @@
 # Módulo 06: Persistência de Dados com JPA e Hibernate
 > Desvende os segredos de salvar e recuperar dados em Java: do "baixo nível" do JDBC ao poder e simplicidade do Spring Data JPA.
 
+## Sumário
+
+- [Aula 6.1: Introdução à Persistência e JDBC](#aula-61-introdução-à-persistência-e-jdbc)
+- [Aula 6.2: Fundamentos JPA e Hibernate](#aula-62-fundamentos-jpa-e-hibernate)
+- [Aula 6.3: Relacionamentos entre Entidades](#aula-63-relacionamentos-entre-entidades)
+- [Aula 6.4: JPQL, Criteria API e Consultas Complexas](#aula-64-jpql-criteria-api-e-consultas-complexas)
+- [Aula 6.5: A Mágica do Spring Data JPA](#aula-65-a-mágica-do-spring-data-jpa)
+- [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
+- [Referências](#referências)
+
 ## O que você vai aprender neste módulo
 
 Neste módulo mergulharemos no ecossistema de persistência do Java. Você vai aprender:
@@ -11,15 +21,6 @@ Neste módulo mergulharemos no ecossistema de persistência do Java. Você vai a
 - Como realizar buscas flexíveis e poderosas usando **JPQL** e a **Criteria API**.
 - E, finalmente, o estado da arte com **Spring Data JPA**, reduzindo o boilerplate a quase zero.
 
-## Sumário
-
-- [Aula 6.1: Introdução à Persistência e JDBC](#aula-61-introdução-à-persistência-e-jdbc)
-- [Aula 6.2: Fundamentos JPA e Hibernate](#aula-62-fundamentos-jpa-e-hibernate)
-- [Aula 6.3: Relacionamentos entre Entidades](#aula-63-relacionamentos-entre-entidades)
-- [Aula 6.4: JPQL, Criteria API e Consultas Complexas](#aula-64-jpql-criteria-api-e-consultas-complexas)
-- [Aula 6.5: A Mágica do Spring Data JPA](#aula-65-a-mágica-do-spring-data-jpa)
-- [Exercícios de fixação do módulo](#exercícios-de-fixação-do-módulo)
-- [Referências](#referências)
 
 ---
 
@@ -511,4 +512,5 @@ d) `searchByAutorSortAnoPublicacaoDesc()`
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 07 — Ecossistema Spring Boot 3](./modulo_07_ecossistema_spring_boot_3.md)
+
 

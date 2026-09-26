@@ -1,6 +1,14 @@
 # Módulo 03: Recursos Modernos do Java
 > O Java evoluiu muito! Escreva menos código, previna mais erros e expresse suas ideias com clareza usando as features modernas.
 
+## Sumário
+
+- [Aula 3.1: Records](#aula-31-records-classes-de-dados-simples-e-imutaveis)
+- [Aula 3.2: Sealed Classes](#aula-32-sealed-classes-controlando-a-heranca)
+- [Aula 3.3: Pattern Matching](#aula-33-pattern-matching-para-instanceof-e-switch-simplificando-condicionais)
+- [Aula 3.4: Text Blocks](#aula-34-text-blocks-strings-multilinhas-mais-legiveis)
+- [Exercícios de Fixação](#exercicios-de-fixacao)
+
 ## O que você vai aprender neste módulo
 
 O Java deixou de ser aquela linguagem excessivamente verbosa do passado. Neste módulo, você descobrirá como o "Java Moderno" (versões 14 a 21) trouxe ferramentas incríveis para tornar seu código mais limpo e seguro:
@@ -11,13 +19,6 @@ O Java deixou de ser aquela linguagem excessivamente verbosa do passado. Neste m
 
 E o mais legal: você verá como essas ferramentas trabalham juntas (Records + Sealed Classes + Pattern Matching) para criar o que chamamos de *Algebraic Data Types* (Tipos de Dados Algébricos).
 
-## Sumário
-
-- [Aula 3.1: Records](#aula-31-records-classes-de-dados-simples-e-imutaveis)
-- [Aula 3.2: Sealed Classes](#aula-32-sealed-classes-controlando-a-heranca)
-- [Aula 3.3: Pattern Matching](#aula-33-pattern-matching-para-instanceof-e-switch-simplificando-condicionais)
-- [Aula 3.4: Text Blocks](#aula-34-text-blocks-strings-multilinhas-mais-legiveis)
-- [Exercícios de Fixação](#exercicios-de-fixacao)
 
 ---
 
@@ -389,4 +390,5 @@ String ddl = """
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 04 — Collections e Stream API](./modulo_04_collections_e_stream_api.md)
+
 
