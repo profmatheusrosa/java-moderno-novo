@@ -2,8 +2,6 @@
 # Módulo 08: Arquitetura Moderna e Cloud Native
 > Bem-vindo à nuvem! Onde suas aplicações escalam, se recuperam sozinhas e voam alto.
 
-![Containers vs VM](../imagens/containers_vs_vm.jpg)
-
 ## O que você vai aprender neste módulo
 
 - Microsserviços e Monólitos: quando usar cada um
@@ -120,6 +118,10 @@ Dica: Prefira comunicação assíncrona sempre que possível para não criar um 
 Bem-vindo ao mundo dos containers! Chega daquela famosa frase: *"Mas na minha máquina funciona!"*
 
 ### Containers vs VMs: A analogia dos navios
+
+![Containers vs VM](../imagens/containers_vs_vm.jpg)
+*Figura 1: Comparativo estrutural entre Máquinas Virtuais e Containers Docker.*
+
 
 Imagine que você quer transportar mercadorias em um navio. 
 **Máquina Virtual (VM):** É como se você construísse um navio inteiro para cada tipo de mercadoria. Um navio só de sapatos, outro só de camisas. Cada navio tem seu próprio motor, comandante, etc. (Sistema Operacional próprio). Muito pesado e gasta muitos recursos.
@@ -503,3 +505,4 @@ d) Não há diferença, são sinônimos.
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 09 — Projeto Final Capstone](./modulo_09_projeto_final_capstone.md)
+

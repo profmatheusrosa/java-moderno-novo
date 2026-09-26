@@ -1,8 +1,6 @@
 # Módulo 07: Ecossistema Spring Boot 3
 > O Spring Boot revolucionou a forma como criamos aplicações Java. Aprenda a sair do zero absoluto até uma API RESTful robusta, com injeção de dependências e tratamento global de erros em minutos!
 
-![Spring IoC Container](../imagens/spring_ioc.jpg)
-
 ## O que você vai aprender neste módulo
 
 Neste módulo, uniremos os blocos fundamentais do back-end moderno. Você aprenderá a:
@@ -143,6 +141,10 @@ public record IntegracoesProperties(String apiPagamentoUrl, int timeoutSegundos)
 ---
 
 ## Aula 7.2: Injeção de Dependência e IoC
+
+![Spring IoC Container](../imagens/spring_ioc.jpg)
+*Figura 1: Representação visual do Contêiner IoC do Spring gerenciando Beans.*
+
 
 O framework Spring tem em seu coração um **Container IoC (Inversion of Control)**. 
 Em código Java puro antigo, nós mesmos éramos responsáveis por instanciar classes usando o temido `new` e gerenciar quem usava quem. 
@@ -493,3 +495,4 @@ d) `@GlobalError`
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 08 — Arquitetura Moderna e Cloud Native](./modulo_08_arquitetura_moderna_e_cloud_native.md)
+

@@ -1,8 +1,6 @@
 # Módulo 05: Tratamento de Erros e Tópicos Avançados
 > Domine a base avançada do Java: como lidar com o inesperado e criar códigos genéricos, seguros e velozes.
 
-![Virtual Threads](../imagens/virtual_threads.jpg)
-
 ## O que você vai aprender neste módulo
 
 - Como lidar com erros usando Exceções (`try-catch-finally`, Exceções Check e Unchecked, Exceções Customizadas)
@@ -281,6 +279,10 @@ Historicamente, as Threads Java gastavam muita memória porque cada uma mapeava 
 
 ### O pulo do gato: Virtual Threads (Project Loom) e o "Garçom"
 
+![Virtual Threads](../imagens/virtual_threads.jpg)
+*Figura 1: Diferença arquitetural entre OS Threads e Virtual Threads no Java.*
+
+
 Pense num restaurante. 
 - **Threads tradicionais** são como garçons que pegam o pedido de um cliente e ficam esperando de pé ao lado da mesa até a comida ficar pronta. Se o restaurante lotar, você precisaria contratar milhares de garçons (caro e pesado!).
 - **Virtual Threads** são garçons modernos. Eles pegam o pedido, mandam pra cozinha e vão atender outra mesa. Quando a comida da primeira mesa fica pronta, o garçom (ou qualquer outro garçom livre) volta pra entregar e finalizar o atendimento.
@@ -440,3 +442,4 @@ d) Transforma código síncrono em callbacks invisíveis.
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 06 — Persistência de Dados com JPA/Hibernate](./modulo_06_persistencia_de_dados_com_jpa_hibernate.md)
+

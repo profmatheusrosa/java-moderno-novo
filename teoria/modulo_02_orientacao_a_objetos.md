@@ -1,8 +1,6 @@
 # Módulo 02: Orientação a Objetos
 > A base de tudo no Java: entenda como modelar o mundo real com código e organizar suas ideias.
 
-![Pilares da Orientação a Objetos](../imagens/pilares_oop.jpg)
-
 ## O que você vai aprender neste módulo
 
 Neste módulo, vamos mergulhar fundo no paradigma que dá vida ao Java: a Orientação a Objetos (OO). Você aprenderá a pensar em forma de objetos, descobrindo como:
@@ -24,6 +22,10 @@ Neste módulo, vamos mergulhar fundo no paradigma que dá vida ao Java: a Orient
 ---
 
 ## Aula 2.1: Classes e Objetos: O DNA do seu Programa
+
+![Pilares da Orientação a Objetos](../imagens/pilares_oop.jpg)
+*Figura 1: Representação visual dos 4 pilares da Orientação a Objetos.*
+
 
 Na programação orientada a objetos (OOP) [1], tudo gira em torno de **classes** e **objetos**. Eles são os blocos fundamentais para construir programas que modelam o mundo real de forma mais intuitiva e organizada.
 
@@ -549,3 +551,4 @@ class Pix implements Pagavel {
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 03 — Recursos Modernos do Java](./modulo_03_recursos_modernos_do_java.md)
+

@@ -2,8 +2,6 @@
 # Módulo 09: Projeto Final Capstone
 > A hora da verdade: onde todo o conhecimento se une para criar um sistema real do zero ao deploy.
 
-![Arquitetura Final](../imagens/arquitetura_final.jpg)
-
 ## O que você vai aprender neste módulo
 
 - Consolidar todos os conceitos de Java 21, Spring Boot 3 e JPA
@@ -107,6 +105,10 @@ erDiagram
 ```
 
 ### Arquitetura e Decisões (ADR)
+
+![Arquitetura Final](../imagens/arquitetura_final.jpg)
+*Figura 1: Desenho da arquitetura de software do Projeto Final.*
+
 
 Para mantermos o registro de nossas escolhas, fazemos um mini *Architecture Decision Record (ADR)*:
 - **Linguagem:** Java 21 (Aproveitar Records para DTOs).
@@ -385,11 +387,6 @@ Abaixo, um modelo (template) completo de `README.md` que você deve usar na raiz
 ```markdown
 # BiblioTech - Sistema de Gestão de Biblioteca
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 BiblioTech é uma API RESTful moderna para gestão de bibliotecas, permitindo controle de acervo, usuários e empréstimos de livros com regras de negócio rígidas.
 
 ---
@@ -511,3 +508,4 @@ d) É a interface gráfica padrão do Spring Boot para visualizar relatórios de
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos)
+

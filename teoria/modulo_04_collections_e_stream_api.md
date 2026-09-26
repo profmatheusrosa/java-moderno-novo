@@ -1,8 +1,6 @@
 # Módulo 04: Coleções e Stream API
 > Domine a manipulação de dados em Java: do básico de Listas ao poder funcional das Streams.
 
-![Stream API Pipeline](../imagens/stream_pipeline.jpg)
-
 ## O que você vai aprender neste módulo
 
 - A Collections Framework: List, Set e Map
@@ -154,6 +152,10 @@ public class MapExemplo {
 ---
 
 ## Aula 4.3: Streams API - O Poder da Programação Funcional
+
+![Stream API Pipeline](../imagens/stream_pipeline.jpg)
+*Figura 1: Analogia de uma linha de montagem para explicar a Stream API.*
+
 
 A **Streams API** [2], introduzida no Java 8, virou o jogo. Se antes precisávamos escrever laços `for` gigantes e cheios de `if` para filtrar ou transformar listas, as Streams trouxeram um estilo declarativo: você diz *o que* quer fazer, não *como* fazer.
 
@@ -376,3 +378,4 @@ d) stream()
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 05 — Tratamento de Erros e Tópicos Avançados](./modulo_05_tratamento_de_erros_e_topicos_avancados.md)
+

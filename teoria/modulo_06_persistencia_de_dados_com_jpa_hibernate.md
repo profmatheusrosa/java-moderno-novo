@@ -1,8 +1,6 @@
 # Módulo 06: Persistência de Dados com JPA e Hibernate
 > Desvende os segredos de salvar e recuperar dados em Java: do "baixo nível" do JDBC ao poder e simplicidade do Spring Data JPA.
 
-![Ciclo de Vida JPA](../imagens/ciclo_vida_jpa.jpg)
-
 ## O que você vai aprender neste módulo
 
 Neste módulo mergulharemos no ecossistema de persistência do Java. Você vai aprender:
@@ -172,6 +170,10 @@ public class Usuario {
 ```
 
 ### O Gerente de Tudo: `EntityManager`
+
+![Ciclo de Vida JPA](../imagens/ciclo_vida_jpa.jpg)
+*Figura 1: Diagrama de transição de estados no ciclo de vida de uma entidade JPA.*
+
 
 O `EntityManager` é o "mordomo" da JPA. Ele é responsável por gerenciar o **Contexto de Persistência** — uma espécie de cache em memória onde ficam guardadas as entidades.
 
@@ -509,3 +511,4 @@ d) `searchByAutorSortAnoPublicacaoDesc()`
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 07 — Ecossistema Spring Boot 3](./modulo_07_ecossistema_spring_boot_3.md)
+

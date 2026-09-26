@@ -1,8 +1,6 @@
 # Módulo 03: Recursos Modernos do Java
 > O Java evoluiu muito! Escreva menos código, previna mais erros e expresse suas ideias com clareza usando as features modernas.
 
-![Java Record Pattern](../imagens/java_record_comparison.jpg)
-
 ## O que você vai aprender neste módulo
 
 O Java deixou de ser aquela linguagem excessivamente verbosa do passado. Neste módulo, você descobrirá como o "Java Moderno" (versões 14 a 21) trouxe ferramentas incríveis para tornar seu código mais limpo e seguro:
@@ -41,6 +39,10 @@ public class PontoTradicional {
 ```
 
 ### Introdução aos Records
+
+![Java Record Pattern](../imagens/java_record_comparison.jpg)
+*Figura 1: Comparativo entre uma Classe Tradicional e um Java Record.*
+
 
 Os Records resolvem isso com uma única linha. O compilador gera automaticamente todo aquele código para você.
 
@@ -387,3 +389,4 @@ String ddl = """
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 04 — Collections e Stream API](./modulo_04_collections_e_stream_api.md)
+

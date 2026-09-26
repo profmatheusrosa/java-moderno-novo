@@ -1,8 +1,6 @@
 # Módulo 01: Fundamentos da Linguagem Java
 > Os alicerces onde tudo começa: domine variáveis, operadores, controle de fluxo, laços e métodos no Java Moderno 21+.
 
-![Fluxo de Execução do Java](../imagens/fluxo_execucao_java.jpg)
-
 ## O que você vai aprender neste módulo
 
 - A base estrutural do código moderno: Variáveis dinâmicas e Tipos de Dados Primitivos.
@@ -25,6 +23,10 @@
 ---
 
 ## Aula 1.1: Variáveis e Tipos de Dados
+
+![Fluxo de Execução do Java](../imagens/fluxo_execucao_java.jpg)
+*Figura 1: Fluxo de compilação e execução de um programa Java.*
+
 
 Para processar informações e salvar dados em memória, usamos variáveis. Como o Java possui tipagem estática forte [1], cada variável precisa ter um tipo explicitamente declarado no momento da sua criação.
 
@@ -275,3 +277,4 @@ d) Ele é usado como um atalho do operador ternário lógico.
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 02 — Introdução à Orientação a Objetos](./modulo_02_orientacao_a_objetos.md)
+

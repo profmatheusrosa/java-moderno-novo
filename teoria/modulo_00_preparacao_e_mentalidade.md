@@ -33,6 +33,8 @@ Dica: O Java 21 trouxe as *Virtual Threads*, que permitem lidar com milhões de 
 ### JRE, JDK e JVM
 
 ![Diagrama do Ecossistema Java](../imagens/ecossistema_java.jpg)
+*Figura 1: Hierarquia do ecossistema Java.*
+
 
 Para não se perder na sopa de letrinhas:
 - **JVM (Java Virtual Machine):** É o cérebro que lê e executa o código compilado (o Bytecode), traduzindo-o para o seu sistema operacional. É o que garante a portabilidade do Java.
@@ -159,3 +161,4 @@ d) Reinstalar o JDK imediatamente, pois os Stacktraces geralmente indicam que o 
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 01 — Fundamentos da Linguagem Java](./modulo_01_fundamentos_da_linguagem_java.md)
+
