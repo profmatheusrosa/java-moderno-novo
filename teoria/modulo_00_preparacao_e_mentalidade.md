@@ -1,7 +1,6 @@
 # Módulo 00: Preparação e Mentalidade
 > Prepare o terreno antes de construir a casa: configure seu ambiente e ajuste sua mentalidade para dominar o Java moderno.
 
-![Diagrama conceitual do Módulo 00: Preparação e Mentalidade](../imagens/modulo_00_preparacao_e_mentalidade.svg)
 
 ## O que você vai aprender neste módulo
 
@@ -32,6 +31,8 @@ Muita gente parou no tempo com o Java 8 (de 2014). Hoje em dia, a Oracle lança 
 Dica: O Java 21 trouxe as *Virtual Threads*, que permitem lidar com milhões de requisições simultâneas de forma leve, sem sobrecarregar a memória RAM.
 
 ### JRE, JDK e JVM
+
+![Diagrama do Ecossistema Java](../imagens/ecossistema_java.jpg)
 
 Para não se perder na sopa de letrinhas:
 - **JVM (Java Virtual Machine):** É o cérebro que lê e executa o código compilado (o Bytecode), traduzindo-o para o seu sistema operacional. É o que garante a portabilidade do Java.

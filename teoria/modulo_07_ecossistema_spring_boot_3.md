@@ -1,7 +1,8 @@
 # Módulo 07: Ecossistema Spring Boot 3
 > O Spring Boot revolucionou a forma como criamos aplicações Java. Aprenda a sair do zero absoluto até uma API RESTful robusta, com injeção de dependências e tratamento global de erros em minutos!
 
-![Diagrama conceitual do Módulo 07: Ecossistema Spring Boot 3](../imagens/modulo_07_ecossistema_spring_boot_3.svg)
+![Spring IoC Container](../imagens/spring_ioc.jpg)
+
 ## O que você vai aprender neste módulo
 
 Neste módulo, uniremos os blocos fundamentais do back-end moderno. Você aprenderá a:

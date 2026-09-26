@@ -1,7 +1,8 @@
 # Módulo 06: Persistência de Dados com JPA e Hibernate
 > Desvende os segredos de salvar e recuperar dados em Java: do "baixo nível" do JDBC ao poder e simplicidade do Spring Data JPA.
 
-![Diagrama conceitual do Módulo 06: Persistência de Dados com JPA e Hibernate](../imagens/modulo_06_persistencia_de_dados_com_jpa_hibernate.svg)
+![Ciclo de Vida JPA](../imagens/ciclo_vida_jpa.jpg)
+
 ## O que você vai aprender neste módulo
 
 Neste módulo mergulharemos no ecossistema de persistência do Java. Você vai aprender:

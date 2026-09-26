@@ -1,7 +1,7 @@
 # Módulo 01: Fundamentos da Linguagem Java
 > Os alicerces onde tudo começa: domine variáveis, operadores, controle de fluxo, laços e métodos no Java Moderno 21+.
 
-![Diagrama conceitual do Módulo 01: Fundamentos da Linguagem Java](../imagens/modulo_01_fundamentos_da_linguagem_java.svg)
+![Fluxo de Execução do Java](../imagens/fluxo_execucao_java.jpg)
 
 ## O que você vai aprender neste módulo
 

@@ -1,7 +1,7 @@
 # Módulo 04: Coleções e Stream API
 > Domine a manipulação de dados em Java: do básico de Listas ao poder funcional das Streams.
 
-![Diagrama conceitual do Módulo 04: Coleções e Stream API](../imagens/modulo_04_collections_e_stream_api.svg)
+![Stream API Pipeline](../imagens/stream_pipeline.jpg)
 
 ## O que você vai aprender neste módulo
 

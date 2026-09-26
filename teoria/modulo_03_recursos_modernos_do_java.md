@@ -1,7 +1,7 @@
 # Módulo 03: Recursos Modernos do Java
 > O Java evoluiu muito! Escreva menos código, previna mais erros e expresse suas ideias com clareza usando as features modernas.
 
-![Diagrama conceitual do Módulo 03: Recursos Modernos do Java](../imagens/modulo_03_recursos_modernos_do_java.svg)
+![Java Record Pattern](../imagens/java_record_comparison.jpg)
 
 ## O que você vai aprender neste módulo
 

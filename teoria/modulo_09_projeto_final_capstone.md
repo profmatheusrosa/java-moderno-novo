@@ -2,7 +2,7 @@
 # Módulo 09: Projeto Final Capstone
 > A hora da verdade: onde todo o conhecimento se une para criar um sistema real do zero ao deploy.
 
-![Diagrama conceitual do Módulo 09: Projeto Final Capstone](../imagens/modulo_09_projeto_final_capstone.svg)
+![Arquitetura Final](../imagens/arquitetura_final.jpg)
 
 ## O que você vai aprender neste módulo
 

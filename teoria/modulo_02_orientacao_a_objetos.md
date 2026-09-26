@@ -1,7 +1,7 @@
 # Módulo 02: Orientação a Objetos
 > A base de tudo no Java: entenda como modelar o mundo real com código e organizar suas ideias.
 
-![Diagrama conceitual do Módulo 02: Orientação a Objetos](../imagens/modulo_02_orientacao_a_objetos.svg)
+![Pilares da Orientação a Objetos](../imagens/pilares_oop.jpg)
 
 ## O que você vai aprender neste módulo
 

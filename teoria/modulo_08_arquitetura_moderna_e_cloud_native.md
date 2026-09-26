@@ -2,7 +2,7 @@
 # Módulo 08: Arquitetura Moderna e Cloud Native
 > Bem-vindo à nuvem! Onde suas aplicações escalam, se recuperam sozinhas e voam alto.
 
-![Diagrama conceitual do Módulo 08: Arquitetura Moderna e Cloud Native](../imagens/modulo_08_arquitetura_moderna_e_cloud_native.svg)
+![Containers vs VM](../imagens/containers_vs_vm.jpg)
 
 ## O que você vai aprender neste módulo
 

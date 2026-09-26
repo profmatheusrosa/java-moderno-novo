@@ -1,7 +1,7 @@
 # Módulo 05: Tratamento de Erros e Tópicos Avançados
 > Domine a base avançada do Java: como lidar com o inesperado e criar códigos genéricos, seguros e velozes.
 
-![Diagrama conceitual do Módulo 05: Tratamento de Erros e Tópicos Avançados](../imagens/modulo_05_tratamento_de_erros_e_topicos_avancados.svg)
+![Virtual Threads](../imagens/virtual_threads.jpg)
 
 ## O que você vai aprender neste módulo
 
