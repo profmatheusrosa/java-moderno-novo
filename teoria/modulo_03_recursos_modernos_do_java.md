@@ -324,12 +324,13 @@ d) Para criar automaticamente blocos de texto (Text Blocks) seguros para SQL.
 **Explicação:** Com as palavras-chave `sealed` e `permits`, você define uma hierarquia de herança fechada e previsível, o que é fundamental para a criação de Algebraic Data Types em Java.
 </details>
 
-<details>
-<summary><strong>Exercício Prático 1: Records e Pattern Matching</strong></summary>
+### Exercício Prático 1: Records e Pattern Matching
 
 Crie um `record` chamado `PedidoDTO` com `id` (int) e `valor` (double). Crie um método que receba um `Object`. Use o *Pattern Matching for instanceof* para verificar se o objeto é um `PedidoDTO` e, se for, imprima o valor dele.
 
-**Gabarito:**
+<details>
+<summary>Ver gabarito</summary>
+
 ```java
 public record PedidoDTO(int id, double valor) {}
 
@@ -343,12 +344,13 @@ public void analisarObjeto(Object obj) {
 ```
 </details>
 
-<details>
-<summary><strong>Exercício Prático 2: Sealed Classes com Switch Exhaustivo</strong></summary>
+### Exercício Prático 2: Sealed Classes com Switch Exhaustivo
 
 Crie uma interface selada `Pagamento` que permita `PagamentoPix` e `PagamentoBoleto` (faça ambos como records). Depois, faça um método que use o `switch` expression para retornar uma string indicando como foi pago.
 
-**Gabarito:**
+<details>
+<summary>Ver gabarito</summary>
+
 ```java
 public sealed interface Pagamento permits PagamentoPix, PagamentoBoleto {}
 
@@ -365,12 +367,13 @@ public String descreverPagamento(Pagamento p) {
 ```
 </details>
 
-<details>
-<summary><strong>Exercício Prático 3: Text Blocks para SQL</strong></summary>
+### Exercício Prático 3: Text Blocks para SQL
 
 Crie uma string que guarde um `CREATE TABLE` para uma tabela de produtos, usando Text Blocks e indentando de forma legível.
 
-**Gabarito:**
+<details>
+<summary>Ver gabarito</summary>
+
 ```java
 String ddl = """
     CREATE TABLE produtos (
@@ -390,5 +393,6 @@ String ddl = """
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 04 — Collections e Stream API](./modulo_04_collections_e_stream_api.md)
+
 
 

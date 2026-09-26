@@ -457,13 +457,14 @@ d) Instanciação
 **Explicação:** A sobrescrita de métodos (@Override) permite que a classe filha altere o comportamento herdado da classe pai, o que é fundamental para o polimorfismo.
 </details>
 
-<details>
-<summary><strong>Exercício Prático 1: Modelando com Encapsulamento</strong></summary>
+### Exercício Prático 1: Modelando com Encapsulamento
 
 Crie uma classe `Produto` com os atributos privados `nome` (String), `preco` (double) e `quantidadeEmEstoque` (int). 
 Crie os getters e setters, mas não permita que o preço seja negativo, nem que a quantidade fique menor que zero.
 
-**Gabarito:**
+<details>
+<summary>Ver gabarito</summary>
+
 ```java
 public class Produto {
     private String nome;
@@ -495,12 +496,13 @@ public class Produto {
 ```
 </details>
 
-<details>
-<summary><strong>Exercício Prático 2: Herança e Polimorfismo</strong></summary>
+### Exercício Prático 2: Herança e Polimorfismo
 
 Crie uma classe base `Funcionario` com o método `calcularSalario()` retornando `2000.0`. Crie a classe `Gerente` que herda de `Funcionario` e sobrescreve o método `calcularSalario()` para retornar o salário base mais 1500.0 de bônus.
 
-**Gabarito:**
+<details>
+<summary>Ver gabarito</summary>
+
 ```java
 class Funcionario {
     public double calcularSalario() {
@@ -517,12 +519,13 @@ class Gerente extends Funcionario {
 ```
 </details>
 
-<details>
-<summary><strong>Exercício Prático 3: Interfaces</strong></summary>
+### Exercício Prático 3: Interfaces
 
 Crie uma interface `Pagavel` com um método `processarPagamento(double valor)`. Faça uma classe `CartaoCredito` e outra `Pix` implementarem essa interface, imprimindo lógicas diferentes.
 
-**Gabarito:**
+<details>
+<summary>Ver gabarito</summary>
+
 ```java
 interface Pagavel {
     void processarPagamento(double valor);
@@ -552,5 +555,6 @@ class Pix implements Pagavel {
 ---
 
 [Voltar aos Links Rápidos](../README.md#links-rapidos) | [Próximo módulo: Módulo 03 — Recursos Modernos do Java](./modulo_03_recursos_modernos_do_java.md)
+
 
 
